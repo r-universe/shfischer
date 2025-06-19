@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/shfischer/shfischer.r-universe.dev
 	branch = HEAD
+[submodule "cat3advice"]
+	path = cat3advice
+	url = https://github.com/shfischer/cat3advice
+	branch = main
