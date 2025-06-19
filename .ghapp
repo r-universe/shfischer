@@ -1,0 +1,10 @@
+{
+  "id": 72047745,
+  "created_at": "2025-06-19T10:55:03.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["cat3advice"]
+}
